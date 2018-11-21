@@ -1,0 +1,27 @@
+h2 {
+    margin: 1em 0em;
+    color: white;
+    text-shadow: 2px 2px #64485C;
+}
+
+body {
+    background-color: #501B1D;
+}
+
+.event {
+    margin: 1em auto;
+    width: 80%;
+}
+
+.event-detail {
+    width: auto;
+    padding: 1em;
+    color: white;
+    border-radius: 5px;
+    text-shadow: 2px 2px #64485C;
+    background-color: #ADADAD;
+}
+
+.event > ul li {
+    margin: 0em;
+}

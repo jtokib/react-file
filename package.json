@@ -2,7 +2,7 @@
   "name": "react-file",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jtokib.github.io/react-file",
+  "homepage": "https://jtokib.github.io",
   "dependencies": {
     "prop-types": "^15.6.0",
     "react": "^16.6.3",

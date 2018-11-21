@@ -13,7 +13,6 @@ class App extends Component {
       <BrowserRouter>
         <div className="App">
           <Header />
-          <h1>Schedule</h1>
           <Switch>
           <Route path="/" component={List} exact />
           <Route path="/event/:id" component={EventDetail} exact/>

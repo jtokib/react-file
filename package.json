@@ -2,7 +2,7 @@
   "name": "react-file",
   "version": "0.1.0",
   "private": false,
-  "homepage": "/",
+  "homepage": "https://react-133a-jtokib.herokuapp.com/",
   "dependencies": {
     "prop-types": "^15.6.0",
     "react": "^16.6.3",
